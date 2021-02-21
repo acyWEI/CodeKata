@@ -5,7 +5,7 @@ craete a Trip class include TripTime() and DiscardTrip();
 create a ReadDataFile class include ReadData.
 CodeKataData is a text file that I put the test data.
 
-If I have more time I would add more test case for this project.
+If I have more time I would add more test case for this project. Also for the CodeKataData.txt, I use my local address for the location, so maybe there would have some error when others open the file in program.
 
 Here is the description for this project
 Example input:
